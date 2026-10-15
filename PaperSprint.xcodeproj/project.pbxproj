@@ -12,37 +12,37 @@
 			containerPortal = 3F02296A3080E8E3009CA0BD /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 3F0229713080E8E3009CA0BD;
-			remoteInfo = StudyMate;
+			remoteInfo = PaperSprint;
 		};
 		3F02298A3080E8E6009CA0BD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 3F02296A3080E8E3009CA0BD /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 3F0229713080E8E3009CA0BD;
-			remoteInfo = StudyMate;
+			remoteInfo = PaperSprint;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3F0229723080E8E3009CA0BD /* StudyMate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StudyMate.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		3F02297F3080E8E6009CA0BD /* StudyMateTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StudyMateTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		3F0229893080E8E6009CA0BD /* StudyMateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StudyMateUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F0229723080E8E3009CA0BD /* PaperSprint.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PaperSprint.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F02297F3080E8E6009CA0BD /* PaperSprintTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PaperSprintTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F0229893080E8E6009CA0BD /* PaperSprintUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PaperSprintUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		3F0229743080E8E3009CA0BD /* StudyMate */ = {
+		3F0229743080E8E3009CA0BD /* PaperSprint */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = StudyMate;
+			path = PaperSprint;
 			sourceTree = "<group>";
 		};
-		3F0229823080E8E6009CA0BD /* StudyMateTests */ = {
+		3F0229823080E8E6009CA0BD /* PaperSprintTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = StudyMateTests;
+			path = PaperSprintTests;
 			sourceTree = "<group>";
 		};
-		3F02298C3080E8E6009CA0BD /* StudyMateUITests */ = {
+		3F02298C3080E8E6009CA0BD /* PaperSprintUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = StudyMateUITests;
+			path = PaperSprintUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -75,9 +75,9 @@
 		3F0229693080E8E3009CA0BD = {
 			isa = PBXGroup;
 			children = (
-				3F0229743080E8E3009CA0BD /* StudyMate */,
-				3F0229823080E8E6009CA0BD /* StudyMateTests */,
-				3F02298C3080E8E6009CA0BD /* StudyMateUITests */,
+				3F0229743080E8E3009CA0BD /* PaperSprint */,
+				3F0229823080E8E6009CA0BD /* PaperSprintTests */,
+				3F02298C3080E8E6009CA0BD /* PaperSprintUITests */,
 				3F0229733080E8E3009CA0BD /* Products */,
 			);
 			sourceTree = "<group>";
@@ -85,9 +85,9 @@
 		3F0229733080E8E3009CA0BD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3F0229723080E8E3009CA0BD /* StudyMate.app */,
-				3F02297F3080E8E6009CA0BD /* StudyMateTests.xctest */,
-				3F0229893080E8E6009CA0BD /* StudyMateUITests.xctest */,
+				3F0229723080E8E3009CA0BD /* PaperSprint.app */,
+				3F02297F3080E8E6009CA0BD /* PaperSprintTests.xctest */,
+				3F0229893080E8E6009CA0BD /* PaperSprintUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3F0229713080E8E3009CA0BD /* StudyMate */ = {
+		3F0229713080E8E3009CA0BD /* PaperSprint */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3F0229933080E8E6009CA0BD /* Build configuration list for PBXNativeTarget "StudyMate" */;
+			buildConfigurationList = 3F0229933080E8E6009CA0BD /* Build configuration list for PBXNativeTarget "PaperSprint" */;
 			buildPhases = (
 				3F02296E3080E8E3009CA0BD /* Sources */,
 				3F02296F3080E8E3009CA0BD /* Frameworks */,
@@ -108,18 +108,18 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				3F0229743080E8E3009CA0BD /* StudyMate */,
+				3F0229743080E8E3009CA0BD /* PaperSprint */,
 			);
-			name = StudyMate;
+			name = PaperSprint;
 			packageProductDependencies = (
 			);
-			productName = StudyMate;
-			productReference = 3F0229723080E8E3009CA0BD /* StudyMate.app */;
+			productName = PaperSprint;
+			productReference = 3F0229723080E8E3009CA0BD /* PaperSprint.app */;
 			productType = "com.apple.product-type.application";
 		};
-		3F02297E3080E8E6009CA0BD /* StudyMateTests */ = {
+		3F02297E3080E8E6009CA0BD /* PaperSprintTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3F0229963080E8E6009CA0BD /* Build configuration list for PBXNativeTarget "StudyMateTests" */;
+			buildConfigurationList = 3F0229963080E8E6009CA0BD /* Build configuration list for PBXNativeTarget "PaperSprintTests" */;
 			buildPhases = (
 				3F02297B3080E8E6009CA0BD /* Sources */,
 				3F02297C3080E8E6009CA0BD /* Frameworks */,
@@ -131,18 +131,18 @@
 				3F0229813080E8E6009CA0BD /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				3F0229823080E8E6009CA0BD /* StudyMateTests */,
+				3F0229823080E8E6009CA0BD /* PaperSprintTests */,
 			);
-			name = StudyMateTests;
+			name = PaperSprintTests;
 			packageProductDependencies = (
 			);
-			productName = StudyMateTests;
-			productReference = 3F02297F3080E8E6009CA0BD /* StudyMateTests.xctest */;
+			productName = PaperSprintTests;
+			productReference = 3F02297F3080E8E6009CA0BD /* PaperSprintTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		3F0229883080E8E6009CA0BD /* StudyMateUITests */ = {
+		3F0229883080E8E6009CA0BD /* PaperSprintUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3F0229993080E8E6009CA0BD /* Build configuration list for PBXNativeTarget "StudyMateUITests" */;
+			buildConfigurationList = 3F0229993080E8E6009CA0BD /* Build configuration list for PBXNativeTarget "PaperSprintUITests" */;
 			buildPhases = (
 				3F0229853080E8E6009CA0BD /* Sources */,
 				3F0229863080E8E6009CA0BD /* Frameworks */,
@@ -154,13 +154,13 @@
 				3F02298B3080E8E6009CA0BD /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				3F02298C3080E8E6009CA0BD /* StudyMateUITests */,
+				3F02298C3080E8E6009CA0BD /* PaperSprintUITests */,
 			);
-			name = StudyMateUITests;
+			name = PaperSprintUITests;
 			packageProductDependencies = (
 			);
-			productName = StudyMateUITests;
-			productReference = 3F0229893080E8E6009CA0BD /* StudyMateUITests.xctest */;
+			productName = PaperSprintUITests;
+			productReference = 3F0229893080E8E6009CA0BD /* PaperSprintUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3F02296D3080E8E3009CA0BD /* Build configuration list for PBXProject "StudyMate" */;
+			buildConfigurationList = 3F02296D3080E8E3009CA0BD /* Build configuration list for PBXProject "PaperSprint" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -200,9 +200,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3F0229713080E8E3009CA0BD /* StudyMate */,
-				3F02297E3080E8E6009CA0BD /* StudyMateTests */,
-				3F0229883080E8E6009CA0BD /* StudyMateUITests */,
+				3F0229713080E8E3009CA0BD /* PaperSprint */,
+				3F02297E3080E8E6009CA0BD /* PaperSprintTests */,
+				3F0229883080E8E6009CA0BD /* PaperSprintUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,12 +258,12 @@
 /* Begin PBXTargetDependency section */
 		3F0229813080E8E6009CA0BD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3F0229713080E8E3009CA0BD /* StudyMate */;
+			target = 3F0229713080E8E3009CA0BD /* PaperSprint */;
 			targetProxy = 3F0229803080E8E6009CA0BD /* PBXContainerItemProxy */;
 		};
 		3F02298B3080E8E6009CA0BD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3F0229713080E8E3009CA0BD /* StudyMate */;
+			target = 3F0229713080E8E3009CA0BD /* PaperSprint */;
 			targetProxy = 3F02298A3080E8E6009CA0BD /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -321,7 +321,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -378,7 +378,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -407,7 +407,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.Harini.StudyMate;
+				PRODUCT_BUNDLE_IDENTIFIER = com.himsaramkdl.PaperSprint;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -434,7 +434,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.Harini.StudyMate;
+				PRODUCT_BUNDLE_IDENTIFIER = com.himsaramkdl.PaperSprint;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -449,14 +449,14 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.Harini.StudyMateTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.himsaramkdl.PaperSprintTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StudyMate.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/StudyMate";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PaperSprint.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/PaperSprint";
 			};
 			name = Debug;
 		};
@@ -467,14 +467,14 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.Harini.StudyMateTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.himsaramkdl.PaperSprintTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StudyMate.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/StudyMate";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PaperSprint.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/PaperSprint";
 			};
 			name = Release;
 		};
@@ -485,12 +485,12 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.Harini.StudyMateUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.himsaramkdl.PaperSprintUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = StudyMate;
+				TEST_TARGET_NAME = PaperSprint;
 			};
 			name = Debug;
 		};
@@ -501,19 +501,19 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.Harini.StudyMateUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.himsaramkdl.PaperSprintUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = StudyMate;
+				TEST_TARGET_NAME = PaperSprint;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3F02296D3080E8E3009CA0BD /* Build configuration list for PBXProject "StudyMate" */ = {
+		3F02296D3080E8E3009CA0BD /* Build configuration list for PBXProject "PaperSprint" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3F0229913080E8E6009CA0BD /* Debug */,
@@ -522,7 +522,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3F0229933080E8E6009CA0BD /* Build configuration list for PBXNativeTarget "StudyMate" */ = {
+		3F0229933080E8E6009CA0BD /* Build configuration list for PBXNativeTarget "PaperSprint" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3F0229943080E8E6009CA0BD /* Debug */,
@@ -531,7 +531,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3F0229963080E8E6009CA0BD /* Build configuration list for PBXNativeTarget "StudyMateTests" */ = {
+		3F0229963080E8E6009CA0BD /* Build configuration list for PBXNativeTarget "PaperSprintTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3F0229973080E8E6009CA0BD /* Debug */,
@@ -540,7 +540,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3F0229993080E8E6009CA0BD /* Build configuration list for PBXNativeTarget "StudyMateUITests" */ = {
+		3F0229993080E8E6009CA0BD /* Build configuration list for PBXNativeTarget "PaperSprintUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3F02299A3080E8E6009CA0BD /* Debug */,
